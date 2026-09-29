@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Remix Remix Remix Remix Gita AI Wisdom Platform",
+  "description": "Comprehensive spiritual intelligence backend and platform offering AI Krishna dialogue, Bhagavad Gita knowledge explorer, emotion detection, personalized guidance, daily learning, and crisis safety guardrails.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
